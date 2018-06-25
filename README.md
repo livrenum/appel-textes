@@ -1,6 +1,6 @@
 # Appel de textes
 
-Ce dépôt permet aux auteurs, réviseurs et éditeurs de partager leurs textes dans un environnement commun, avec les la puissance du protocole Git dans la convivialité de l'environnement GitHub.
+Ce dépôt permet aux auteurs, réviseurs et éditeurs de partager leurs textes dans un environnement commun, avec la puissance du protocole Git dans la convivialité de l'environnement GitHub.
 
 ## Contribution
 
