@@ -8,8 +8,8 @@ Créez-vous un compte GitHub ou connectez-vous pour commencer.
 
 ### Protocole
 
-1. `Fork`ez ce dépôt.
-2. Créez _votre_ branche (`texte__<votre-texte>`).
+1. [`Fork`ez](https://github.com/livrenum/appel-textes/fork) ce dépôt.
+2. Créez votre branche (selon la nomenclature des branches).
 3. Faites vos changements sur votre branche.
 4. Faites un [`Pull Request`](https://github.com/livrenum/appel-textes/pull) et lancez la discussion!
 
